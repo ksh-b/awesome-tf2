@@ -4,7 +4,7 @@ awesome-tf2 <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome 
 
 <p align="center">
 A curated list of awesome Team Fortress 2 resources, tools and more.<br>
-<i>If you have a TF2 resource or site to add, please submit a <a href="https://github.com/CriticalFlaw/awesome-tf2/pulls">pull request</a>.</br> Check the <a href="code-of-conduct.md">contribution guidelines</a> for info on formatting and writing pull requests.</i>
+<i>If you have a TF2 resource or site to add, please submit a <a href="https://github.com/ksh-b/awesome-tf2/pulls">pull request</a>.</br> Check the <a href="code-of-conduct.md">contribution guidelines</a> for info on formatting and writing pull requests.</i>
 </p>
 
 ### Table of Contents
@@ -14,6 +14,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Competitive Streams](#competitive-streams)
 - [Modifications](#modifications)
 - [Official Valve endorsed Sites](#official-valve-endorsed-sites)
+- [Sourcemods](#sourcemods)
 - [Trading](#trading)
 - [Useful Tools](#useful-tools)
 - [Video Content](#video-content)
@@ -27,12 +28,14 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Community Sites
 - [BalanceMod.TF](https://www.bmod.tf/) - Introduces new features and re-balances all of the unbalanced weapons in the game.
-- [Essentials.TF](https://twitter.com/tf2essentials) - Competitive and community news aggregator and host of monthly NA/EU tournaments.
+- [Essentials.TF](https://essentials.tf/) - Competitive and community news aggregator and host of monthly NA/EU tournaments.
 - [FuckYeahTF2](https://fuckyeahtf2.tumblr.com/) - Tumblr for everything and anything TF2-related, namely artwork showcases.
 - [Jump.TF](https://jump.tf/) - The TF2 Jumping community.
 - [Jump Academy](https://jumpacademy.tf/) - Community of jumpers from all around the world who share the same passion for rocket jumping.
 - [KritzKast](https://kritzkast.com/) - THE Team Fortress 2 Podcast, hosted every Saturday by Agro.
+- [Offshore](https://offshore.teamfortress.community/) - Offshore is a community event that ventures to explore the sea.
 - [Potato.TF](https://potato.tf/servers) - Community made Mann vs. Machine tours. Play and level up to earn in-game medals.
+- [Shounic Trenches](https://teamwork.tf/community/quickplay#search=shounic%20trenches) - 100 player sever by shounic.
 - [Skial](https://www.skial.com/servers) - The largest TF2 community serving over 10 million players since 2010.
 - [Teamwork.TF](https://teamwork.tf/) - Community Quickplay, Jarate Pages, news and stats about Team Fortress 2.
 - [r/TF2](https://reddit.com/r/tf2/) - Subreddit dedicated to any and all Team Fortress 2 content; news, jokes and discussions.
@@ -62,6 +65,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [GameBanana](https://gamebanana.com/games/297) - Treasure trove of mods including custom skins, maps, UIs, models and animations.
 - [mastercomfig](https://mastercomfig.com/) - Customizable configs for optimized game performance and hit registration.
 - [Paysus Skins](https://steamcommunity.com/groups/PaysusSkins) - Source of TF2 Animation Mods and More!
+- [TF2Huds](https://tf2huds.dev/) - TF2 Huds
 - [TF2Maps](https://tf2maps.net/) - Dedicated community for TF2 level design, mapping resource, tutorials and 72-Hour Jams!
 
 ## Official Valve endorsed Sites
@@ -72,6 +76,13 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Team Fortress 2 Twitter](https://twitter.com/teamfortress) – Emergency resource for posting updates.
 - [Team Fortress 2 Wiki](https://wiki.teamfortress.com/) - All encompassing resource for the entire Team Fortress series.
 - [Team Fortress 2 YouTube](https://youtube.com/user/teamfortress) – Home of Valve Software’s “Meet the Team” videos.
+
+## Sourcemods
+- [Beta Fortress](https://www.moddb.com/mods/beta-fortress) - Beta Fortress is using Pre-Fortress 0.6 as base. This mod is towards about TF2 late 2007 and early 2007
+- [ModDB](https://www.moddb.com/games/team-fortress-2) - Team fortress Mod DB page
+- [Open Fortress](https://openfortress.fun/) - Open Fortress is a free, community-developed Team Fortress 2 mod that introduces new gamemodes, characters, weapons, maps and more to the world of TF2.
+- [Pre-Fortress 2](https://prefortress.com/) - Pre-Fortress 2 is a TF2 sourcemod that caters to the gameplay of earlier Team Fortress installments while maintaining the aesthetics from TF2's alternative designs from 2006.
+- [TF2 Classic](https://tf2classic.com/) - Team Fortress 2 Classic is a free Sourcemod that aims to re-imagine the 2008/2009 era of the original Team Fortress 2. New features range from weapons and maps to gamemodes such as VIP and Four-Team.
 
 ## Trading
 - [Backpack.TF](https://backpack.tf/) - Crowd-sourced pricelist, keeping track of user’s backpack values and much more!
