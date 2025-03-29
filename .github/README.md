@@ -1,9 +1,9 @@
 <h1 align="center">
-awesome-tf2  <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome Badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a><br>
+awesome-tf2 <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome Badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a><br>
 </h1>
 
 <p align="center">
-A curated list of awesome Team Fortress 2 resources, tools and more.<br>  
+A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 <i>If you have a TF2 resource or site to add, please submit a <a href="https://github.com/CriticalFlaw/awesome-tf2/pulls">pull request</a>.</br> Check the <a href="code-of-conduct.md">contribution guidelines</a> for info on formatting and writing pull requests.</i>
 </p>
 
@@ -17,15 +17,16 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Trading](#trading)
 - [Useful Tools](#useful-tools)
 - [Video Content](#video-content)
+- [Related Lists](#related-lists)
 
 ## Annual Charity Events
-- [Blapature Co.](https://steamcommunity.com/groups/BlapatureCo) - EU-based charity livestream hosted by a group of TF2 YouTubers.
+- [Blapature Co.](https://blapature.org/) - EU-based charity livestream hosted by a group of TF2 YouTubers.
 - [hugs.TF](https://hugs.tf/) - UK-based charity livestream event benefiting [Special Effect](https://specialeffect.org.uk/).
-- [TFConnect](https://twitter.com/TF_Connect) - Community ran charity event focused on Mann vs. Machines, benefiting [Special Effect](https://specialeffect.org.uk/).
+- [TFConnect](https://tfconnect.org/) - Community ran charity event benefiting [Special Effect](https://specialeffect.org.uk/).
 - [Tip of the Hats](https://tipofthehats.org/) - Charity livestream benefiting [One Step Camp](https://camponestep.org/). Ran from 2013-2021.
 
 ## Community Sites
-- [BalanceMod.TF](https://www.bmod.tf/) -  Introduces new features and re-balances all of the unbalanced weapons in the game.
+- [BalanceMod.TF](https://www.bmod.tf/) - Introduces new features and re-balances all of the unbalanced weapons in the game.
 - [Essentials.TF](https://twitter.com/tf2essentials) - Competitive and community news aggregator and host of monthly NA/EU tournaments.
 - [FuckYeahTF2](https://fuckyeahtf2.tumblr.com/) - Tumblr for everything and anything TF2-related, namely artwork showcases.
 - [Jump.TF](https://jump.tf/) - The TF2 Jumping community.
@@ -49,7 +50,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Competitive Streams
 - [CappingTV](https://twitch.tv/CappingTV) - Streams Oceania/Asia 6v6 and Highlander matches from various leagues.
-- [Essentials.TF](https://twitch.tv/essentialstf) - Streams competitive Highlander, 6v6 and Ultiduo for RGL and ETF2L.  
+- [Essentials.TF](https://twitch.tv/essentialstf) - Streams competitive Highlander, 6v6 and Ultiduo for RGL and ETF2L.
 - [KritzKast](https://twitch.tv/kritzkast) – Streams competitive 6v6, Highlander, Prolander matches from around the world.
 - [TFLIVEtv](https://twitch.tv/tflivetv) – Streams competitive 6v6 for Australia’s ozfortress.
 - [TeamFortress TV](https://teamfortress.tv/stream/teamfortresstv) – Streams competitive 6v6 for RGL and ETF2L.
@@ -57,14 +58,13 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 ## Modifications
 - [CFG.TF](https://cfg.tf/) - Open-source hub dedicated to generating custom Team Fortress 2 configurations.
 - [CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) - A sequel to the original Clean TF2 mod. Designed to provide mods that reduces visual clutter and increase FPS.
+- [comfig huds](https://comfig.app/huds) - A repository of community developed custom HUDs.
 - [GameBanana](https://gamebanana.com/games/297) - Treasure trove of mods including custom skins, maps, UIs, models and animations.
-- [comfig huds](https://comfig.app/huds) - An alternative HUDs directory after huds.tf shut down.
 - [mastercomfig](https://mastercomfig.com/) - Customizable configs for optimized game performance and hit registration.
 - [Paysus Skins](https://steamcommunity.com/groups/PaysusSkins) - Source of TF2 Animation Mods and More!
 - [TF2Maps](https://tf2maps.net/) - Dedicated community for TF2 level design, mapping resource, tutorials and 72-Hour Jams!
 
 ## Official Valve endorsed Sites
-- [Merchandise](https://valvestore.forfansbyfans.com/title/team-fortress-2.html) - WeLoveFine’s official store selling original and community submitted items.
 - [Source Games Issue Tracker](https://github.com/ValveSoftware/Source-1-Games/issues) - Bug reports and feature requests tracker for TF2 and the Source Engine.
 - [Steam Community Market](https://steamcommunity.com/market/search?appid=440) - Buy and sell items with other Steam community members.
 - [Steam Workshop](https://steamcommunity.com/workshop/browse/?appid=440) - Submit new in-game items for Valve’s consideration, and view others’ works.
@@ -75,18 +75,17 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Trading
 - [Backpack.TF](https://backpack.tf/) - Crowd-sourced pricelist, keeping track of user’s backpack values and much more!
-- [Calculator.TF ](https://calculator.tf/) - The fastest and easiest way to convert between TF2 currencies.
+- [Calculator.TF](https://calculator.tf/) - The fastest and easiest way to convert between TF2 currencies.
 - [Marketplace.TF](https://marketplace.tf/) - Securely buy TF2 items with cash. No trade holds or hidden fees.
 - [STN Trading](https://stntrading.eu/) - Buy and sell items “For the discerning gentleperson”.
 - [Scrap.TF](https://scrap.tf/) - Home to automated Steam trading, scrap/hat banking, raffles and more!
 
 ## Useful Tools
-- [CastingEssentials](https://github.com/PazerOP/CastingEssentials) - A plugin that enhances the viewing experience of both casters and viewers.
+- [CastingEssentials](https://github.com/dalegaard/CastingEssentials/releases/latest) - A plugin that enhances the viewing experience of both casters and viewers.
 - [Crowbar](https://steamcommunity.com/groups/CrowbarTool) - A model decompiler similar to GCFScape but more up to date and feature rich.
 - [GCFScape](https://developer.valvesoftware.com/wiki/GCFScape) - An app that can open and extract Source Engine content packed as .gcf and .vpk files.
-- [HUD Editor](https://github.com/CriticalFlaw/TF2HUD.Editor) - A tool for installing and customizing your favorite custom Team Fortress 2 HUDs.
+- [HUD Editor](https://criticalflaw.ca/TF2HUD.Editor/) - A tool for installing and customizing your favorite custom Team Fortress 2 HUDs.
 - [Loadout.TF](https://loadout.tf/) - A web-app that lets you create custom loadouts without restrictions.
-- [Modelling Resources and Tutorials](https://kritzkast.com/tf2_mod_guide) – Created by Pogo for KritzKast.
 - [MvM.TF](https://mvm.tf/) - MvM wave generator 
 - [Rep.TF](https://rep.tf/) - Search many player reputation databases, all in one place.
 - [Serveme.TF](https://serveme.tf/) - The easiest way to get a TF2 server.
@@ -98,3 +97,6 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 ## Video Content
 - [Twitch](https://twitch.tv/directory/game/Team%20Fortress%202) - Team Fortress 2 streams on Twitch.
 - [YouTube](https://youtube.com/results?search_query=Team+Fortress+2) - Team Fortress 2 videos on YouTube.
+
+### Related Lists
+ - [awesome-tf2-devs](https://github.com/tf2-software-enthusiasts/awesome-tf2-devs) - Similar list of tf2 projects for developers.
